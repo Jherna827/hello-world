@@ -1,9 +1,6 @@
-TEST ERASE
-
-
-# **hello-SDSDworld**
-## A repositoASDASDry for my IT class
-### my naASDAme is Jonatan Hernandez and I am making this for my IT analysis and design class!
-#### ~~markdowADSntest~~
+# **hello-world**
+## A repository for my IT class
+### my name is Jonatan Hernandez and I am making this for my IT analysis and design class!
+#### ~~markdowntest~~
 
 ADD ADDITIONAL MARKINGS
